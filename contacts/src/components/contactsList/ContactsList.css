@@ -1,0 +1,16 @@
+.contacts-list{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.contacts-list tr:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.contacts-list th,
+.contacts-list td {
+    text-align: center;
+    padding: 5px;
+    border-bottom: 1px solid grey;
+}

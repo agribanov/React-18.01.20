@@ -1,0 +1,28 @@
+
+.App-header {
+  background-color: #282c34;
+  text-align: center;
+  /* padding: 10px; */
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.left-panel{
+  width: 40%;
+  float: left;
+}
+
+.right-panel{
+  width: 60%;
+  float: left;
+}
+
+.add-new-contact-btn {
+  width: 100%;
+  font-size: 30px;
+  background-color: #fff;
+  border-color: lightgray;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+

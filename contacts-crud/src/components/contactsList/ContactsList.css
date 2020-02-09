@@ -1,0 +1,17 @@
+.contacts-list{
+    width: 100%;
+    list-style: none;
+    padding: 0;
+    font-size: 20px
+}
+
+.contacts-list li:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.contacts-list li{
+    text-align: center;
+    padding: 15px;
+    border-bottom: 1px solid grey;
+}
